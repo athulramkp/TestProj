@@ -3,7 +3,7 @@
     xmlns="sap.m">
     <Page id="page" title="{i18n>title}">
         <content>
-            <Button text="ABC"/>
+            <Button text="This is the Latest changes"/>
         </content>
     </Page>
 </mvc:View>
